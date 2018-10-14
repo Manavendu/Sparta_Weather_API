@@ -1,0 +1,15 @@
+first service (current weather):
+- name
+- id
+- zip
+- coordinates
+second service (5 day):
+- name
+- id
+- zip
+- coordinates
+third service (16 day):
+- name
+- id
+- zip
+- coordinates
